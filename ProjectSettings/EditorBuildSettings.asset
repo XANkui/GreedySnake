@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Snake_Menu.unity
+    guid: 18b01896e8a31cb49a065be413d3ecf2
+  - enabled: 1
+    path: Assets/Scenes/Snake_Game.unity
+    guid: 8a79afa8a20d3164b8a379b809cbf6cc
